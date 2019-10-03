@@ -15,7 +15,7 @@
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginRight="16dp"
             app:layout_constraintDimensionRatio="16:9"/>
     <TextView
-            android:text="Video Title"
+            android:text="Video Titlee"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:id="@+id/textView_video_title" android:layout_marginTop="8dp"
